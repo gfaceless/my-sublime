@@ -1,0 +1,1 @@
+{"platforms": ["*"], "version": "1.0.1", "dependencies": [], "description": "Fixes to Sublime Text's JavaScript symbol list", "url": "http://int3h.github.io/sublime-better-javascript", "sublime_text": "*"}

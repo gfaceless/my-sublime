@@ -1,0 +1,20 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Autoprefixer",
+		"Better JavaScript",
+		"DocBlockr",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"JavaScript Patterns",
+		"JavaScript Snippets",
+		"LESS",
+		"Package Control",
+		"PackageResourceViewer",
+		"SideBarEnhancements"
+	]
+}
