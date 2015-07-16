@@ -5,6 +5,7 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"AngularJS",
 		"Autoprefixer",
 		"Better JavaScript",
 		"DocBlockr",

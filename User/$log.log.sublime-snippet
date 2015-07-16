@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$log.log(${1:msg});${0}
+]]></content>
+	<tabTrigger>ll</tabTrigger>
+	<scope>source.js</scope>
+	<description>console.log</description>
+</snippet>
