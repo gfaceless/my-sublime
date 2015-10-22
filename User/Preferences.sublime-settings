@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Pastels on Dark.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
 	"font_size": 14,
 	"ignored_packages":
 	[
@@ -8,7 +8,9 @@
 	],
 	"index_exclude_patterns":
 	[
-		"*.log",
-		"C:\\codes\\svn\\hdx-mobile\\seat_svg\\src\\vendor*"
+		"c:\\codes\\work\\RD-H5-edit\\node_modules*",
+		"c:\\codes\\work\\RD-H5-edit\\dist*",
+		"C:\\codes\\svn\\hdx-mobile\\seat_svg\\src\\vendor*",
+		"*.log"
 	]
 }

@@ -6,5 +6,6 @@
 	{ "keys": ["ctrl+v"], "command": "paste_and_indent" },
 	{ "keys": ["alt+super+p"], "command": "autoprefixer" },
 	{ "keys": ["ctrl+alt+a"], "command": "alignment" },
-	{ "keys": ["ctrl+shift+r"], "command": "reindent" , "args": { "single_line": false } }
+	{ "keys": ["ctrl+shift+r"], "command": "reindent" , "args": { "single_line": false } },
+	{ "keys": ["ctrl+f11"], "command": "toggle_minimap" }
 ]

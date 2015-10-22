@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -10,9 +11,11 @@
 		"Better JavaScript",
 		"DocBlockr",
 		"Emmet",
+		"Handlebars",
 		"HTML-CSS-JS Prettify",
 		"JavaScript Patterns",
 		"JavaScript Snippets",
+		"JSHint Gutter",
 		"LESS",
 		"Package Control",
 		"PackageResourceViewer",
